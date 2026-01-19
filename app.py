@@ -24,7 +24,7 @@ if not api_key:
 client = OpenAI(api_key=api_key)
 
 # -----------------------------
-# ✅ df 로드 (네가 준 경로)
+# ✅ df 로드 
 # -----------------------------
 DATA_PATH = r"C:\ITStudy\data\final_df.csv"
 
